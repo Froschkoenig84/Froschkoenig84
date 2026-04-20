@@ -1,5 +1,5 @@
 # Hi, I'm Michael 🥃🚀
-*(but mostly known as Froschkoenig84)*
+*(but commonly known as Froschkoenig84)*
 
 ### 🛠️ Passionate Architect & Developer
 I build resilient systems using **Domain-Driven Design**, **.NET 9**, and modern Frontend patterns. I'm a fan of clean code, deep architecture discussions, and a good glass of Scotch.
